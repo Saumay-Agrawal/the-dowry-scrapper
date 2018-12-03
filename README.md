@@ -1,0 +1,3 @@
+# the-dowry-scrapper
+
+It started as a fun experiment. I came to know about this website via InShorts, a news app, when someone file a case against this site for its (obviously) objectionable content. I, on the other hand, saw an oppotunity to explore the cultural sterotypes using my skills of data analytics. So I quickly found a way to automate the clickstreams for various combinations of inputs on this site using Selenium, to get the results in a CSV file, so that I can get the trends and patterns using Tableau. However, as always, things didn't happend the way I had thought. I ended up realizing that I would be making billions of requests on a server, and therefore also learning a lot about the DDoS attacks.
